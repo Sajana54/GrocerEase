@@ -20,4 +20,7 @@ This project is a single-seller, multi-buyer grocery web application developed u
 - Academic Project (4th Semester)
 - Single Seller, Multiple Buyers System
 
-
+# How to Run
+1. Clone the repository  
+   ```bash
+   git clone <repo-url>
